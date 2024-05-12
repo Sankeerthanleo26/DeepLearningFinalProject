@@ -15,7 +15,7 @@ Crop Disease Detection using Deep Learning is a project aimed at leveraging conv
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## Overview26
 
 Crop diseases pose a significant threat to global food security, leading to substantial crop losses and economic damages. Traditional methods of disease identification are often labor-intensive and time-consuming, making it challenging for farmers to detect diseases early and take timely preventive measures. This project addresses this challenge by providing an automated solution for crop disease detection using deep learning techniques.
 
